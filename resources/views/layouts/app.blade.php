@@ -19,7 +19,7 @@
             </div>
         </div>
         <footer>
-
+            @yield("footer", "<p>Tous droits réservés</p>")
         </footer>
         <!-- JS -->
         <script src="https://code.jquery.com/jquery-3.1.0.min.js" type="text/javascript"></script>
